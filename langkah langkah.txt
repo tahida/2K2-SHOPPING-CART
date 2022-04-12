@@ -1,0 +1,37 @@
+npm init -y
+
+install beberapa depedenci
+1. di folder root install npm i express mongoose dotenv
+2.npm i --save-dev nodemon concurrently --> untuk menjalankan script secara bersamaan baik backen dan frontend
+3.npx create-react-app . --> untuk forentend yang sudah di bikin terlebih dahulu foldernya
+4.copy gitignore dari fronted ke gitignore yang ada di root
+5.hapus folder git yang ada di frontend
+6.buka terminal lalu buat folder git baru di rootnya
+git init
+
+
+https://www.typescriptlang.org/id/docs/handbook/jsx.html --> dasar penggunaan
+https://www.dumetschool.com/blog/Cara-Menggunakan-Webpack-Dev-Server --> cara setting web dev pack
+data cloud mongoodb
+username mongoodb database
+tahida
+password
+odZ8zdRnoZmZsxIb ->tahida00
+7.membuat script untuk menginput data ke database
+8.pada package json tambahkan script untuk menjalankan import data
+9.menginstall eractrouterdom dan beberapa tools
+npm i axios react-router-dom redux react-redux react-thunk redux-devtools-extension
+
+logo di ambil dari cdnjs.com
+
+cara upload ke github 
+git add -A
+git commit -m "update"
+git remote add origin httpps(untuk yang belum ada repository)
+git branch -M main
+git push -u origin main
+
+
+add extension di chrome atau browser react devtools
+
+rafc / rafce --> perintah singkat untuk membuat import 
